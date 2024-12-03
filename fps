@@ -1,0 +1,5 @@
+cd $HOME/120FPS
+chmod +x unlock
+chmod +x menu
+chmod +x repak
+./menu
